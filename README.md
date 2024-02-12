@@ -10,7 +10,4 @@ Follow the [model pushing guide](https://replicate.com/docs/guides/push-a-model)
 
 Run a prediction
 
-    cog predict -i prompt="Write a detailed analogy between mathematics and a lighthouse." -i agree_to_research_only=True
-
-# phi-2-cog
-# phi-2-cog
+    cog predict -i prompt="Write a detailed analogy between mathematics and a lighthouse."
